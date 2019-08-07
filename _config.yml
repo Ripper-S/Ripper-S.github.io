@@ -1,10 +1,10 @@
 # Site settings
 title: Ripper-S Blog
-SEOTitle: 陈述的博客 | Ripper-S Blog
+SEOTitle: Ripper-S Blog
 header-img: img/Anonymous.png
 email:
 description: "We are Anonymous"
-keyword: "Ripper-S,Ripper-S Blog,Linux,C,SWUpdate"
+keyword: "Anonymous,Ripper-S,Ripper-S Blog,Linux,C,SWUpdate"
 url: "http://ripper-s.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Ripper-S/Ripper-S.github.io" # you code repository
