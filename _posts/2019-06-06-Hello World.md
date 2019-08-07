@@ -10,8 +10,6 @@ tags:							# 标签
     - Life
 ---
 
-## Hey
-This is My First Blog
 
-# HELLO WORLD
-# We Are Anonymous
+#           HELLO WORLD
+#           We are Anonymous
