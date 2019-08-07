@@ -11,8 +11,8 @@ github_repo: "https://github.com/Ripper-S/Ripper-S.github.io" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/boy.jpg      # use absolute URL
+sidebar-about-description: "We are Anonymous"
+sidebar-avatar: /img/Hacker.jpg      # use absolute URL
 
 
 
