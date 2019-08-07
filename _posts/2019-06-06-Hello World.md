@@ -7,7 +7,7 @@ author:		Ripper-S				# 作者
 header-img:	img/Anonymous.png			# 文章标题背景图
 catalog:	true					# 是否归档
 tags:							# 标签
-	- 生活
+    - 生活
 ---
 
 ## Hey
