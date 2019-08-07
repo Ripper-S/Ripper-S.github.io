@@ -1,16 +1,17 @@
 ---
-layout:     post                    # 使用的布局（不需要改）
-title:      First Blog              # 标题 
-subtitle:   Hello World, Hello Blog #副标题
-date:       2019-06-21              # 时间
-author:     Ripper-S                # 作者
-header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
-    - 生活
+layout:		post					# 使用的布局
+title:		First Blog				# 标题
+subtitle:	Hello World, Hello Blog			# 副标题
+date:		2019-06-21				# 时间
+author:		Ripper-S				# 作者
+header-img:	img/Anonymous.png			# 文章标题背景图
+catalog:	true					# 是否归档
+tags:							# 标签
+	- 生活
 ---
 
 ## Hey
 >这是我的第一篇博客。
 
-First Blog
+	HELLO WORLD
+			0.0

@@ -1,13 +1,13 @@
 ---
-layout:		post
-title:		TCP/IP
-subtitle:	三次握手，四次挥手学习总结
-date:		2019-08-06
-author:		Ripper-S
-header-img:	img/post-bg-2015.jpg
-catalog:	true
-tags:
-    - WLAN
+layout:		post					# 使用的布局
+title:		TCP/IP					# 标题
+subtitle:	Learning Notes of TCP/IP		# 副标题
+date:		2019-08-06				# 时间
+author:		Ripper-S				# 作者
+header-img:	img/universe.jpg			# 文章标题背景图
+catalog:	true					# 是否归档
+tags:							# 标签
+	- WLAN
 ---
 
 
