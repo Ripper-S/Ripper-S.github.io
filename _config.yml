@@ -3,8 +3,8 @@ title: Ripper-S Blog
 SEOTitle: Ripper-S Blog
 header-img: img/lock.jpg
 email:
-description: "We are Anonymous"
-keyword: "Anonymous,Ripper-S,Ripper-S Blog,Linux,C,SWUpdate"
+description: "Swordsman on the Internet～"
+keyword: "Swordsman,Ripper-S,Ripper-S Blog,Linux,C,SWUpdate"
 url: "http://ripper-s.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Ripper-S/Ripper-S.github.io" # you code repository
