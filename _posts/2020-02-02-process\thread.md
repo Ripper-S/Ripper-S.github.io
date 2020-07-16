@@ -1,13 +1,13 @@
 ---
-layout:		post					# 使用的布局
+layout:		post						# 使用的布局
 title:		Process\Thread				# 标题
-subtitle:	Learning Notes				# 副标题
-date:		2019-08-11				# 时间
-author:		Ripper-S				# 作者
-header-img:	img/book-coffee.jpeg			# 文章标题背景图
-catalog:	true					# 是否归档
-tags:							# 标签
-    - WLAN
+subtitle:	Learning Notes of Process\Thread	# 副标题
+date:		2020-02-02					# 时间
+author:		Ripper-S					# 作者
+header-img:	img/book-coffee.jpeg		# 文章标题背景图
+catalog:	true						# 是否归档
+tags:									# 标签
+    - Linux
 ---
 
 
